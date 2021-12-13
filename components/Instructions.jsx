@@ -9,7 +9,7 @@ function Instructions() {
       </p>
       <a
         target='_blank'
-        href='https://github.com/settings/tokens/new?scopes=delete_repo,repo&description=Githuz%Deleter%20Token'
+        href='https://github.com/settings/tokens/new?scopes=delete_repo,repo&description=Githuz%20Deleter%20Token'
         rel='noopener noreferrer'
       >
         <button className='btn btn-sm btn-primary'>Generate token</button>
